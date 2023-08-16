@@ -1,0 +1,19 @@
+// String, int, double, boolean
+
+/*public class TemperatureConverter {
+    public static void main(String[] args) {
+        double fahrenheit = 98.6;
+        double celsius = (fahrenheit - 32) * 5/9;
+        
+        System.out.println(fahrenheit + "°F is equal to " + celsius + "°C");
+    }
+}
+*/
+/*  Exercise 1
+ - Write a program to convert a temperature in Fahrenheit to Celsius:
+ Exercise 2: Currency Conversion    
+ - Write a Java program that converts an amount in US Dollars to Euros. 
+   Declare and initialize a variable to store the amount in USD, and 
+   then calculate and display the equivalent amount in Euros. 
+   Assume an exchange rate of 1 USD = 0.85 Euros.
+*/
