@@ -1,0 +1,46 @@
+// Arithmetic, Relational,
+// Logical Operators or Boolean Operators ==> return booleans
+
+public class DataTypes {
+
+  public static void main(String[] args) {
+    boolean isTired = true;
+    isTired = !!!!isTired;
+    System.out.println(isTired);
+
+    // &&
+    int a = 5;
+    int b = 6;
+    System.out.println(a > 4 && b < 7);
+    // a == 5 && b == 6;
+    // a > 4 && b < 7
+    // !()
+    // || -----------------
+    System.out.println(!(a == 5 || b == 10));
+    //                      a == 5 || b == 6
+    //                    !(a == 4 || b == 3);
+
+    // Go over TRUTH TABLES
+    boolean isOld = true;
+    boolean isNice = false;
+    System.out.println(!isOld || !isNice);
+  }
+}
+Find a warm up exercise for mod x
+unary ++
+      --
+Compound 
+      +=
+      -= 
+      *= 
+      /=
+      %= 
+
+
+
+/* Truth Tables
+  &&| T F        
+  ----------
+  T | T F
+  F | F F
+ */
